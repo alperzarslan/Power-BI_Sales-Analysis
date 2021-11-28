@@ -3,6 +3,6 @@ Regular excel is so slow for lots of functions, it requires a lot of manual step
 
 The calculations includes:
 Creating moving average
-Creating conditional summing
-Data visualising 
-Historical data comperison based on previous year   and more.
+, Creating conditional summing
+, Data visualising 
+, Historical data comperison based on previous year and more.
